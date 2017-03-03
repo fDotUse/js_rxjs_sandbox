@@ -5,10 +5,9 @@ Boilerplate for building RxJS applications in a Webpack environment
 ### Version
 1.0.0
 
-This uses RxJS version 5 - [https://github.com/ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)
+This uses RxJS version 5 - [https://github.com/ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) forked from https://github.com/bradtraversy/rxjs_boiler
 
 ### Usage
-
 
 ### Installation
 
