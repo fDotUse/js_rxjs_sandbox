@@ -1,4 +1,4 @@
-# RxJS Boiler
+# RxJS SandBox
 
 Boilerplate for building RxJS applications in a Webpack environment
 
